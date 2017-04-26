@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Yandex Translate</string>
+    <string name="enter_text_for_translate">Enter a text for translate</string>
+    <string name="sound">sound</string>
+    <string name="bookmark">bookmark</string>
+    <string name="upload">upload</string>
+    <string name="fullscreen">fullscreen</string>
+    <string name="title_activity_history">History</string>
+    <string name="action_settings">Settings</string>
+    <string name="copyright">«Переведено сервисом «Яндекс.Переводчик»</string>
+</resources>
